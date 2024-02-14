@@ -584,6 +584,14 @@ video {
   justify-items: center;
 }
 
+.gap-y-4 {
+  row-gap: 1rem;
+}
+
+.gap-y-12 {
+  row-gap: 3rem;
+}
+
 .self-center {
   align-self: center;
 }
