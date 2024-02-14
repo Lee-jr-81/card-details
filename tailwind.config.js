@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
         fontname: ["space grotesk", "sans serif"],
       },
+      backgroundImage: {
+        hero: "url('./images/bg-main-desktop.png')",
+      },
     },
   },
   plugins: [],
